@@ -1,0 +1,16 @@
+Keras
+Keras-Applications
+Keras-Preprocessing
+tensorflow-gpu
+tensorflow
+tensorboard
+argparse
+base64
+datetime
+shutil
+numpy
+socketio
+eventlet
+PIL
+flask
+utils
