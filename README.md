@@ -14,7 +14,7 @@
 8. Once model trained, open the simulator in autonomous mode, and in anaconda environment type ```python drive.py <model.h5>```, for reference you can also use ```driving_model.h5```
 9. If Model to be trained on Google Colab then use ```model-nv.ipynb``` file
 
-###Simulator Images:
+## Simulator Images:
 
 
 ![](screenshot1.gif)
