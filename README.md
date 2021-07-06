@@ -4,7 +4,7 @@
 ## How to use:
 
 
-1. Visit official github repo https://github.com/udacity/self-driving-car-sim and download the CarNd simulator.
+1. Visit official simulator repo https://github.com/udacity/self-driving-car-sim and download the CarNd simulator.
 2. Press the record button in training mode and extract out the frames as per the requirements from 3 different camaras along with mapped file. Frames will be saved in ./IMG and mapped csv file in ./ directory respectively.
 3. Use anaconda environment
 4. Install all the requirements from ```requirements.txt``` file by typing ```pip install -r requirements.txt```
@@ -14,7 +14,9 @@
 8. Once model trained, open the simulator in autonomous mode, and in anaconda environment type ```python drive.py <model.h5>```, for reference you can also use ```driving_model.h5```
 9. If Model to be trained on Google Colab then use ```model-nv.ipynb``` file
 
-##Simulator Images
+##Simulator Images:
+
+
 ![](screenshot1.gif)
 
 **************************************
